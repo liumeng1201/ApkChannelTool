@@ -2,7 +2,7 @@
 <data>
     <!-- 产品名称 -->
     <product>
-        <item name="app_name"/>
+        <item name="昂立求解答"/>
     </product>
 
     <!-- 渠道配置 -->
@@ -22,7 +22,7 @@
 
     <!-- 当前apk中的渠道号 -->
     <currentChannel>
-        <item name="currentChannelId"/>
+        <item name="only"/>
     </currentChannel>
 
     <!-- 修改AndroidManifest.xml配置 -->

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="ApkCustomizationTool.jnlp">
+  <information>
+    <title>ApkCustomizationTool</title>
+    <vendor>Unknown</vendor>
+    <description>ApkCustomizationTool</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="ApkCustomizationTool.jar" size="50683" download="eager" />
+    <jar href="apktool.jar" size="6104750" download="eager" />
+    <jar href="dom4j-1.6.1.jar" size="313898" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="600" height="400" main-class="javafx.apktools.Main"  name="ApkCustomizationTool" />
+  <update check="background"/>
+</jnlp>
